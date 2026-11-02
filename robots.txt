@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mobaloom.onrender.com/sitemap.xml
